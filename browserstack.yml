@@ -6,7 +6,7 @@ platforms:
     browserName: Chrome
     browserVersion: 103.0
 parallelsPerPlatform: 1
-browserstackLocal: true
+browserstackLocal: false
 buildName: browserstack-build-1
 projectName: BrowserStack Sample
 debug: false
